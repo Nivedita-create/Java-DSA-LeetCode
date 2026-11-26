@@ -48,16 +48,20 @@ Aspiring Java Developer focused on building strong programming, analytical and p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 <!---LeetCode Topics End-->
