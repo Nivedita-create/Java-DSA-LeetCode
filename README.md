@@ -47,11 +47,13 @@ Aspiring Java Developer focused on building strong programming, analytical and p
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Greedy
@@ -62,6 +64,11 @@ Aspiring Java Developer focused on building strong programming, analytical and p
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
