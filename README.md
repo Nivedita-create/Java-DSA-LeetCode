@@ -50,6 +50,7 @@ Aspiring Java Developer focused on building strong programming, analytical and p
 | [0020-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0224-basic-calculator](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Stack
@@ -84,4 +85,12 @@ Aspiring Java Developer focused on building strong programming, analytical and p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0224-basic-calculator/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Nivedita-create/Java-DSA-LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
